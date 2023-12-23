@@ -1,5 +1,7 @@
-### Hi there 👋
-
+༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽ HELLO 👋
+<br>
+<br> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=zyvsagg&theme=dark&card_width=600)](https://git.io/streak-stats)
 <!--
 **zyvsagg/zyvsagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
