@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Subash Acharya</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from Nepal 🇳🇵.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyvsagg" alt="zyvsagg" /></a> </p>
-
 - 🔭 I’m currently working on **react.js**
 
 - 🌱 I’m currently learning **React.js**
