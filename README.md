@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=zyvsagg&theme=dark&card_width=600)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Subash Acharya</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer from Nepal 🇳🇵.</h3>
+<h3 align="center">A Passionate Frontend Developer and UI/UX Designer from Nepal 🇳🇵.</h3>
 
 - 🔭 I’m currently working on **react.js**
 
