@@ -1,6 +1,6 @@
 ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
 <h1 align="center">Hi 👋, I'm Subash Acharya</h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" /></a>
+ 
 
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer from Nepal 🇳🇵.</h3>
 
