@@ -1,5 +1,7 @@
 ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
 <h1 align="center">Hi 👋, I'm Subash Acharya</h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" /></a>
+
 <h3 align="center">A Passionate Frontend Developer and UI/UX Designer from Nepal 🇳🇵.</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zyvsagg&theme=dark&card_width=520)](https://git.io/streak-stats) <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyvsagg&show_icons=true&locale=en&layout=compact" alt="zyvsagg" />
